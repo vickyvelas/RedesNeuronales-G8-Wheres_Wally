@@ -7,6 +7,7 @@ Este repositorio contiene el proyecto final del **Grupo 8**. El objetivo es entr
 * García Nieto, Roberto - 47576
 * Moyano Damian, Gonzalo - 47600
 * Fernandez Rossi, Matías - 
+* Velasco Rodriguez, Victoria - 48872
 
 ### Estructura del Repositorio 
 De acuerdo con las pautas presentadas, el proyecto se divide en las siguientes secciones:
